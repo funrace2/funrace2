@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning C++
+[![코드트리|실력진단-funrace2](https://banner.codetree.ai/v1/banner/funrace2)](https://www.codetree.ai/profiles/funrace2)
